@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Udruženje Mejker"
 theme = "landing-page"
 
+[params]
+	custom_css = ["css/intro.css"]
+
 [[params.social]]
 	title = "email"
 	icon = "envelope-o"
