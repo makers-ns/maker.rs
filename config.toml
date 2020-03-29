@@ -1,0 +1,17 @@
+baseURL = "https://makers-ns.github.io/maker.rs/"
+languageCode = "en-us"
+title = "Udruženje Mejker"
+theme = "landing-page"
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:office@maker.rs"
+[[params.social]]
+	title = "github"
+	icon = "github"
+	url = "https://github.com/makers-ns"
+[[params.social]]
+	title = "linkedin"
+	icon = "linkedin"
+	url = "https://www.linkedin.com/company/association-maker/about/"
