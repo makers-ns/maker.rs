@@ -1,4 +1,4 @@
-baseURL = "https://makers-ns.github.io/maker.rs/"
+baseURL = "https://maker.rs/"
 languageCode = "en-us"
 title = "Udruženje Mejker"
 theme = "landing-page"
