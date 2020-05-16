@@ -88,6 +88,14 @@ h6 {
     letter-spacing: 2px;
 }
 
+#about {
+    font-size: 1.2em;
+}
+
+#services {
+    font-size: 1.15em;
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
@@ -129,6 +137,11 @@ h6 {
 .contact-social-buttons {
     float: right;
     margin-top: 0;
+    text-align: center;
+}
+
+.contact-social-buttons li {
+    padding: 5px;
 }
 
 @media(max-width:1199px) {
