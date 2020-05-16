@@ -5,6 +5,7 @@ theme = "landing-page"
 
 [params]
 	custom_css = ["css/intro.css"]
+	contact_message = "Kontaktirajte nas"
 
 [[params.social]]
 	title = "email"
